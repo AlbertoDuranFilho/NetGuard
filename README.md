@@ -106,7 +106,7 @@ flowchart LR
   B --> C[Servidor NetGuard Pro]
   C --> D[(Banco de Dados / Armazenamento)]
   C --> E[Painel Web / Dashboard]
-  C --> F[Integrações Externas\n(Slack, PagerDuty, Splunk, Nuvem)]
+  C --> F[Integrações Externas<br/>(Slack, PagerDuty, Splunk, Nuvem)]
 ```
 
 ## ▶️ Como executar o projeto
