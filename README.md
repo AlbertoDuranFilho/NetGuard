@@ -193,14 +193,13 @@ Abra o navegador e vá até:
 - Use as credenciais definidas na etapa de criação do usuário admin.
 
 4. Registrar dispositivos/servidores para monitoramento
- - No painel, vá até Configurações > Dispositivos.
- - Adicione os IPs ou hosts que deseja monitorar.
- - Instale e configure o agente NetGuard (se houver um agente separado).
+    - No painel, vá até Configurações > Dispositivos.
+    - Adicione os IPs ou hosts que deseja monitorar.
+    - Instale e configure o agente NetGuard (se houver um agente separado).
 5. Configurar alertas
- - Vá até Configurações > Alertas.
- - Cadastre canais de Slack, integrações com PagerDuty, níveis de severidade etc.
+    - Vá até Configurações > Alertas.
+    - Cadastre canais de Slack, integrações com PagerDuty, níveis de severidade etc.
 
- .
 ## 🧪 Exemplo de Caso de Uso
 
 **Cenário:**
