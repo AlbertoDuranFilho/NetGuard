@@ -113,26 +113,26 @@ flowchart LR
 ### 📋 Pré-requisitos
 
 1. Sistema operacional suportado:
- - Windows Server 2016/2019
- - Linux (Ubuntu 20.04+ / CentOS 7+)
- - macOS 10.15+
+    - Windows Server 2016/2019
+    - Linux (Ubuntu 20.04+ / CentOS 7+)
+    - macOS 10.15+
 
  2. Dependências básicas:
- - Runtime da linguagem (ex.: Node.js / JDK / .NET / Python)
- - Gerenciador de pacotes (npm / yarn / pip / Maven / Gradle etc.)
+    - Runtime da linguagem (ex.: Node.js / JDK / .NET / Python)
+    - Gerenciador de pacotes (npm / yarn / pip / Maven / Gradle etc.)
 
 3. Rede:
- - Adaptador Ethernet 1 Gbps (mínimo)
- - Recomendado: 10 Gbps para ambientes corporativos
+    - Adaptador Ethernet 1 Gbps (mínimo)
+    - Recomendado: 10 Gbps para ambientes corporativos
 
 ### 📌 Observações
 1. Os requisitos de hardware recomendados para melhor desempenho:
- - CPU: Octa-core 3.0 GHz
- - RAM: 16 GB
- - Disco: 1 TB SSD
+     - CPU: Octa-core 3.0 GHz
+    - RAM: 16 GB
+    - Disco: 1 TB SSD
 2. O sistema pode ser implantado em:
- - Ambiente on-premises
- - Provedores de nuvem (AWS, Azure, GCP)
+    - Ambiente on-premises
+    - Provedores de nuvem (AWS, Azure, GCP)
 3. Integrações com ferramentas de terceiros podem ser habilitadas ou desabilitadas via configuração.
 
 ### 🚀 Passo a passo
@@ -190,7 +190,7 @@ Abra o navegador e vá até:
  - http://localhost:8080 (ou a porta configurada).
 
 3. Logar como administrador
-- Use as credenciais definidas na etapa de criação do usuário admin.
+    - Use as credenciais definidas na etapa de criação do usuário admin.
 
 4. Registrar dispositivos/servidores para monitoramento
     - No painel, vá até Configurações > Dispositivos.
@@ -281,16 +281,16 @@ Não quebre testes existentes sem justificativa e atualização adequada.
 git checkout -b feat/nome-da-funcionalidade
 ```
 3. Implemente a funcionalidade ou correção, seguindo:
- - Padrões de código
- - Padrão de testes
+    - Padrões de código
+    - Padrão de testes
 4. Execute os testes antes de enviar:
 ```bash
 npm test
 ```
 5. Abra um Pull Request, descrevendo:
-- O problema resolvido ou funcionalidade criada.
- - Passos para testar.
- - Impactos em outras partes do sistema (se houver).
+    - O problema resolvido ou funcionalidade criada.
+    - Passos para testar.
+    - Impactos em outras partes do sistema (se houver).
 
 ## 🆘 Suporte e Contato
  - Website: www.netguardsolutions.com
@@ -302,5 +302,5 @@ Use estes canais para dúvidas de uso, sugestões e feedback.
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a licença [NOME DA LICENÇA].
+Este projeto é distribuído sob a licença MIT.
 Consulte o arquivo LICENSE para mais detalhes.
